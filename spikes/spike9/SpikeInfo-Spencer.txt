@@ -1,0 +1,12 @@
+Author- Spencer Leutermann
+Purpose-1. UI redesigns
+	2. Dynamic generation restruturing
+
+Goal-	1. Better UI
+		a. usability(touch screen)
+		b. cleanliness
+		c. aesthitic
+		d. scaling
+		e. sizing
+	2. Reduce Loading
+		a. loading on order form

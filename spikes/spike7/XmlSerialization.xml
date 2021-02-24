@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<Items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MenuItem nameAtt="Hamburger" categoryAtt="Meals" caloriesAtt="450" descriptionAtt="Fresh midwest angus beef on a popyseed bun." priceAtt="13.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Tomatos" pictureAtt="" priceAtt="0.3" addedCaloriesAtt="10" />
+      <Option nameAtt="Lettuce" pictureAtt="" priceAtt="0.3" addedCaloriesAtt="10" />
+      <Option nameAtt="Pickles" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="5" />
+	  <Option nameAtt="Onions" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="5" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Cheeseburger" categoryAtt="Meals" caloriesAtt="475" descriptionAtt="Fresh midwest angus beef on a popyseed bun w/ Cheese." priceAtt="14.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Tomatos" pictureAtt="" priceAtt="0.3" addedCaloriesAtt="10" />
+      <Option nameAtt="Lettuce" pictureAtt="" priceAtt="0.3" addedCaloriesAtt="10" />
+      <Option nameAtt="Pickles" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="5" />
+	  <Option nameAtt="Onions" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="5" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Badger Burger" categoryAtt="Meals" caloriesAtt="750" descriptionAtt="Fresh midwest angus beef on a popyseed bun." priceAtt="14.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Thick cut bacon" pictureAtt="" priceAtt="1.5" addedCaloriesAtt="50" />
+      <Option nameAtt="Tomatos" pictureAtt="" priceAtt="0.3" addedCaloriesAtt="10" />
+      <Option nameAtt="Lettuce" pictureAtt="" priceAtt="0.3" addedCaloriesAtt="10" />
+      <Option nameAtt="Pickles" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="5" />
+	  <Option nameAtt="Onions" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="5" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="BBQ Pulled Pork Sandwich" categoryAtt="Meals" caloriesAtt="525" descriptionAtt="Dripping with BBQ sauce and smoked to perfection." priceAtt="11.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Pretzel Bun" pictureAtt="" priceAtt="1.5" addedCaloriesAtt="5" />
+      <Option nameAtt="Cole Slaw" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="15" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="3 Chicken Strips" categoryAtt="Meals" caloriesAtt="300" descriptionAtt="Crispy and Delicious. 5 strips of chicken that rivals Chick-Fil-A." priceAtt="7.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="BBQ sauce" pictureAtt="" priceAtt="0.2" addedCaloriesAtt="10" />
+      <Option nameAtt="Hot sauce" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="16" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="6 Chicken Strips" categoryAtt="Meals" caloriesAtt="600" descriptionAtt="Crispy and Delicious. 5 strips of chicken that rivals Chick-Fil-A." priceAtt="12.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="BBQ sauce" pictureAtt="" priceAtt="0.4" addedCaloriesAtt="10" />
+      <Option nameAtt="Hot sauce" pictureAtt="" priceAtt="0.2" addedCaloriesAtt="16" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Cod Fish Fry" categoryAtt="Meals" caloriesAtt="565" descriptionAtt="Friday fish fry every day." priceAtt="11.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Cole Slaw" pictureAtt="" priceAtt="0.5" addedCaloriesAtt="20" />
+      <Option nameAtt="Beer Battered" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="16" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Bluegill Fish Fry" categoryAtt="Meals" caloriesAtt="570" descriptionAtt="Friday fish fry every day." priceAtt="11.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Cole Slaw" pictureAtt="" priceAtt="0.5" addedCaloriesAtt="20" />
+      <Option nameAtt="Beer Battered" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="16" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Tuna Sandwich Basket" categoryAtt="Meals" caloriesAtt="567" descriptionAtt="Homemade fresh tuna salad sandwich." priceAtt="6.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Cole Slaw" pictureAtt="" priceAtt="0.5" addedCaloriesAtt="20" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="French Fries" categoryAtt="Sides" caloriesAtt="275" descriptionAtt="Freshly cut potatoes." priceAtt="2.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Normal" pictureAtt="" priceAtt="0.0" addedCaloriesAtt="0" />
+	  <Option nameAtt="Shareable" pictureAtt="" priceAtt="1.5" addedCaloriesAtt="50" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Cheesy French Fries" categoryAtt="Sides" caloriesAtt="300" descriptionAtt="Freshly cut potatoes w/ cheese." priceAtt="2.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Normal" pictureAtt="" priceAtt="0.0" addedCaloriesAtt="0" />
+	  <Option nameAtt="Shareable" pictureAtt="" priceAtt="1.5" addedCaloriesAtt="20" />
+	  <Option nameAtt="Xtra Cheese" pictureAtt="" priceAtt="0.5" addedCaloriesAtt="80" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Loaded French Fries" categoryAtt="Sides" caloriesAtt="400" descriptionAtt="Freshly cut potatoes w/ cheese, bacon bits, chives, and ranch." priceAtt="4.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Normal" pictureAtt="" priceAtt="0.0" addedCaloriesAtt="0" />
+	  <Option nameAtt="Shareable" pictureAtt="" priceAtt="1.5" addedCaloriesAtt="150" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Fried Pickles" categoryAtt="Sides" caloriesAtt="200" descriptionAtt="Juicy fresh pickles deep fried with a crispy layer of breading." priceAtt="3.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Normal" pictureAtt="" priceAtt="0.0" addedCaloriesAtt="0" />
+	  <Option nameAtt="Shareable" pictureAtt="" priceAtt="1.5" addedCaloriesAtt="100" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Mozarrella Sticks" categoryAtt="Sides" caloriesAtt="380" descriptionAtt="Seasoned fresh Wisconsin cheese sticks." priceAtt="3.49" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Normal" pictureAtt="" priceAtt="0.0" addedCaloriesAtt="0" />
+	  <Option nameAtt="Shareable" pictureAtt="" priceAtt="1.5" addedCaloriesAtt="150" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Nachos" categoryAtt="Sides" caloriesAtt="375" descriptionAtt="Freshly baked chips blanketed with a layer of meat and cheese." priceAtt="4.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Normal" pictureAtt="" priceAtt="0.0" addedCaloriesAtt="0" />
+	  <Option nameAtt="Shareable" pictureAtt="" priceAtt="1.5" addedCaloriesAtt="100" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Supreme Nachos" categoryAtt="Sides" caloriesAtt="500" descriptionAtt="Freshly baked chips blanketed with a layer of meat, cheese, salsa, veggies, and sour cream." priceAtt="4.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Normal" pictureAtt="" priceAtt="0.0" addedCaloriesAtt="0" />
+	  <Option nameAtt="Shareable" pictureAtt="" priceAtt="1.5" addedCaloriesAtt="150" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Soft Pretzels" categoryAtt="Sides" caloriesAtt="300" descriptionAtt="3 soft pretzels sprinkled with sea salt and our signature cheese dip." priceAtt="3.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Xtra Cheese" pictureAtt="" priceAtt="0.5" addedCaloriesAtt="25" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Cheese Curds" categoryAtt="Sides" caloriesAtt="350" descriptionAtt="Wisconsin Style old fashion cheese curds." priceAtt="3.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Normal" pictureAtt="" priceAtt="0.0" addedCaloriesAtt="0" />
+	  <Option nameAtt="Shareable" pictureAtt="" priceAtt="1.5" addedCaloriesAtt="150" />
+	  <Option nameAtt="Signature Dip" pictureAtt="" priceAtt="0.5" addedCaloriesAtt="25" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Coke" categoryAtt="Drinks" caloriesAtt="50" descriptionAtt="Fountain Soda" priceAtt="1.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Small" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Medium" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Large" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Diet Coke" categoryAtt="Drinks" caloriesAtt="50" descriptionAtt="Fountain Soda" priceAtt="1.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Small" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Medium" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Large" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Orange Fonta" categoryAtt="Drinks" caloriesAtt="50" descriptionAtt="Fountain Soda" priceAtt="1.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Small" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Medium" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Large" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Lemonade Lite" categoryAtt="Drinks" caloriesAtt="50" descriptionAtt="Fountain Drink" priceAtt="1.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Small" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Medium" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Large" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Pink Lemonade" categoryAtt="Drinks" caloriesAtt="50" descriptionAtt="Fountain Drink" priceAtt="1.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Small" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Medium" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Large" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Powerade" categoryAtt="Drinks" caloriesAtt="50" descriptionAtt="Fountain Drink" priceAtt="1.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Small" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Medium" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Large" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Mellow Yellow" categoryAtt="Drinks" caloriesAtt="50" descriptionAtt="Fountain Soda" priceAtt="1.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Small" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Medium" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Large" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Vitamin Water" categoryAtt="Drinks" caloriesAtt="50" descriptionAtt="Fountain Drink" priceAtt="1.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Small" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Medium" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Large" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Water" categoryAtt="Drinks" caloriesAtt="50" descriptionAtt="Fountain Drink" priceAtt="0.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Small" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Medium" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Large" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+    </Options>
+  </MenuItem>
+</Items>

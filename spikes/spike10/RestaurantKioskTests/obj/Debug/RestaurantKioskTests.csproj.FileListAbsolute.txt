@@ -1,0 +1,59 @@
+C:\Users\ItsZs\Desktop\3300\src\RestaurantKioskTests\bin\Debug\RestaurantKioskTests.dll
+C:\Users\ItsZs\Desktop\3300\src\RestaurantKioskTests\bin\Debug\RestaurantKioskTests.pdb
+C:\Users\ItsZs\Desktop\3300\src\RestaurantKioskTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ItsZs\Desktop\3300\src\RestaurantKioskTests\bin\Debug\TestProject.exe
+C:\Users\ItsZs\Desktop\3300\src\RestaurantKioskTests\bin\Debug\TestProject.pdb
+C:\Users\ItsZs\Desktop\3300\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.csprojResolveAssemblyReference.cache
+C:\Users\ItsZs\Desktop\3300\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.dll
+C:\Users\ItsZs\Desktop\3300\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.pdb
+J:\CSSECourse\se333_Inter_SE\GroupProject\src\RestaurantKioskTests\bin\Debug\RestaurantKioskTests.dll
+J:\CSSECourse\se333_Inter_SE\GroupProject\src\RestaurantKioskTests\bin\Debug\RestaurantKioskTests.pdb
+J:\CSSECourse\se333_Inter_SE\GroupProject\src\RestaurantKioskTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+J:\CSSECourse\se333_Inter_SE\GroupProject\src\RestaurantKioskTests\bin\Debug\RestaurantKiosk.exe
+J:\CSSECourse\se333_Inter_SE\GroupProject\src\RestaurantKioskTests\bin\Debug\RestaurantKiosk.pdb
+J:\CSSECourse\se333_Inter_SE\GroupProject\src\RestaurantKioskTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+J:\CSSECourse\se333_Inter_SE\GroupProject\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.csprojResolveAssemblyReference.cache
+J:\CSSECourse\se333_Inter_SE\GroupProject\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.dll
+J:\CSSECourse\se333_Inter_SE\GroupProject\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.pdb
+J:\SERest\src\RestaurantKioskTests\bin\Debug\RestaurantKioskTests.dll
+J:\SERest\src\RestaurantKioskTests\bin\Debug\RestaurantKioskTests.pdb
+J:\SERest\src\RestaurantKioskTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+J:\SERest\src\RestaurantKioskTests\bin\Debug\RestaurantKiosk.exe
+J:\SERest\src\RestaurantKioskTests\bin\Debug\RestaurantKiosk.pdb
+J:\SERest\src\RestaurantKioskTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+J:\SERest\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.csprojResolveAssemblyReference.cache
+J:\SERest\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.dll
+J:\SERest\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.pdb
+C:\Users\nickl\Documents\SE3330\src\RestaurantKioskTests\bin\Debug\RestaurantKioskTests.dll
+C:\Users\nickl\Documents\SE3330\src\RestaurantKioskTests\bin\Debug\RestaurantKioskTests.pdb
+C:\Users\nickl\Documents\SE3330\src\RestaurantKioskTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nickl\Documents\SE3330\src\RestaurantKioskTests\bin\Debug\RestaurantKiosk.exe
+C:\Users\nickl\Documents\SE3330\src\RestaurantKioskTests\bin\Debug\RestaurantKiosk.pdb
+C:\Users\nickl\Documents\SE3330\src\RestaurantKioskTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\nickl\Documents\SE3330\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.csprojResolveAssemblyReference.cache
+C:\Users\nickl\Documents\SE3330\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.dll
+C:\Users\nickl\Documents\SE3330\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.pdb
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\bin\Debug\RestaurantKioskTests.dll
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\bin\Debug\RestaurantKioskTests.pdb
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\bin\Debug\RestaurantKiosk.exe
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\bin\Debug\System.Data.SQLite.dll
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\bin\Debug\RestaurantKiosk.pdb
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\bin\Debug\RestaurantKiosk.exe.config
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\bin\Debug\System.Data.SQLite.xml
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.dll
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.pdb
+J:\SE3330_Project\src\RestaurantKioskTests\bin\Debug\RestaurantKioskTests.dll
+J:\SE3330_Project\src\RestaurantKioskTests\bin\Debug\RestaurantKioskTests.pdb
+J:\SE3330_Project\src\RestaurantKioskTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+J:\SE3330_Project\src\RestaurantKioskTests\bin\Debug\RestaurantKiosk.exe
+J:\SE3330_Project\src\RestaurantKioskTests\bin\Debug\System.Data.SQLite.dll
+J:\SE3330_Project\src\RestaurantKioskTests\bin\Debug\RestaurantKiosk.pdb
+J:\SE3330_Project\src\RestaurantKioskTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+J:\SE3330_Project\src\RestaurantKioskTests\bin\Debug\System.Data.SQLite.xml
+J:\SE3330_Project\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.csprojResolveAssemblyReference.cache
+J:\SE3330_Project\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.dll
+J:\SE3330_Project\src\RestaurantKioskTests\obj\Debug\RestaurantKioskTests.pdb

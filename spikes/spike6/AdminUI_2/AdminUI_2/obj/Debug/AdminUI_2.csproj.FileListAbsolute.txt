@@ -1,0 +1,12 @@
+c:\users\zellmerd\documents\visual studio 2015\Projects\AdminUI_2\AdminUI_2\bin\Debug\AdminUI_2.exe.config
+c:\users\zellmerd\documents\visual studio 2015\Projects\AdminUI_2\AdminUI_2\bin\Debug\AdminUI_2.exe
+c:\users\zellmerd\documents\visual studio 2015\Projects\AdminUI_2\AdminUI_2\bin\Debug\AdminUI_2.pdb
+c:\users\zellmerd\documents\visual studio 2015\Projects\AdminUI_2\AdminUI_2\obj\Debug\AdminUI_2.csprojResolveAssemblyReference.cache
+c:\users\zellmerd\documents\visual studio 2015\Projects\AdminUI_2\AdminUI_2\obj\Debug\AdminUI_2.Properties.Resources.resources
+c:\users\zellmerd\documents\visual studio 2015\Projects\AdminUI_2\AdminUI_2\obj\Debug\AdminUI_2.csproj.GenerateResource.Cache
+c:\users\zellmerd\documents\visual studio 2015\Projects\AdminUI_2\AdminUI_2\obj\Debug\AdminUI_2.exe
+c:\users\zellmerd\documents\visual studio 2015\Projects\AdminUI_2\AdminUI_2\obj\Debug\AdminUI_2.pdb
+c:\users\zellmerd\documents\visual studio 2015\Projects\AdminUI_2\AdminUI_2\obj\Debug\AdminUI_2.AdminForm.resources
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\spike9\AdminUI_2\AdminUI_2\bin\Debug\AdminUI_2.exe.config
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\spike9\AdminUI_2\AdminUI_2\obj\Debug\AdminUI_2.exe
+C:\Users\Daniel Zellmer\Documents\SE3330\SE3330_Project\spike9\AdminUI_2\AdminUI_2\obj\Debug\AdminUI_2.pdb

@@ -1,0 +1,34 @@
+//Change the controllers constructors to public: 
+	//1.so that they can be accessed via the form classes
+
+//Reject duplicate names for menu items
+	//1.to give the buttons meaningful names
+
+/------------------------------------------------------------/
+Not required if we use the controller properly
+Need to add category to MenuItem 
+	1.to bind the buttons to the appropriate containers
+	2.to hide the buttons along with their groupbox
+/-----------------------------------------------------------/
+
+Need to actually add functionality to the Admin controller
+	1.duh
+
+Need to add Admin controller as a member of OrderController
+	1.vice versa(maybe?)
+	2.so the two can interact within the policy layer
+
+*Might need persistent count of the menuItems for OrderController*
+	1.for its list... so it knows how many to grab from AdminController
+
+Why does AdminController.addMenuItem return a pointer to the list instead of a pointer to the item?
+
+Need a function in the controller or the UI that returns a Point()
+	1.so all the buttons can be placed on the form correctly
+
+When declaring a list as a dataMember it needs to be default initialized
+---------------------------------------------------------------------------Sunday
+
+Order Controller needs a persistent list of menuitems
+
+Order Controller needs a persistent list of categories (?)

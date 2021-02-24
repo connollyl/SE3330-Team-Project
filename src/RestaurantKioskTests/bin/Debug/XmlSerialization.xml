@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MenuItem nameAtt="Badger Burger" categoryAtt="Meals" caloriesAtt="450" descriptionAtt="Fresh midwest angus beef on a popyseed bun." priceAtt="14.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Thick cut bacon" pictureAtt="" priceAtt="1.5" addedCaloriesAtt="50" />
+      <Option nameAtt="Tomatos" pictureAtt="" priceAtt="0.3" addedCaloriesAtt="10" />
+      <Option nameAtt="Lettuce" pictureAtt="" priceAtt="0.3" addedCaloriesAtt="10" />
+      <Option nameAtt="Pickles" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="5" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Chicken Strips" categoryAtt="Meals" caloriesAtt="300" descriptionAtt="Crispy and Delicious. 5 strips of chicken that rivals Chick-Fil-A." priceAtt="7.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="BBQ sauce" pictureAtt="" priceAtt="0.2" addedCaloriesAtt="10" />
+      <Option nameAtt="Hot sauce" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="16" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Cod Fish Fry" categoryAtt="Meals" caloriesAtt="400" descriptionAtt="Friday fish fry every day." priceAtt="11.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Cole Slaw" pictureAtt="" priceAtt="0.5" addedCaloriesAtt="20" />
+      <Option nameAtt="Beer Battered" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="16" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="BBQ Pulled Pork Sandwich" categoryAtt="Meals" caloriesAtt="525" descriptionAtt="Dripping with BBQ sauce and smoked to perfection." priceAtt="11.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Pretzel Bun" pictureAtt="" priceAtt="1.5" addedCaloriesAtt="5" />
+      <Option nameAtt="Cole Slaw" pictureAtt="" priceAtt="0.1" addedCaloriesAtt="15" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Builders Permit" categoryAtt="Meals" caloriesAtt="1400" descriptionAtt="Can you conquer the 12 patty burger? Spongebob can't." priceAtt="21.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Honorary T-Shirt" pictureAtt="" priceAtt="7.5" addedCaloriesAtt="-10000" />
+      <Option nameAtt="nameAtt in hall of fame" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Wisconsin Cheddar Cheese Curds" categoryAtt="Sides" caloriesAtt="200" descriptionAtt="Wisconsin's best cheese curds with our special touch." priceAtt="4.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Double order" pictureAtt="" priceAtt="2.5" addedCaloriesAtt="200" />
+    </Options>
+  </MenuItem>
+  <MenuItem nameAtt="Fountain Soda" categoryAtt="Drinks" caloriesAtt="50" descriptionAtt="Select multiple options for a mixed soda selection." priceAtt="1.99" timeCostAtt="0">
+    <Options>
+      <Option nameAtt="Pepsi" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Mountain Dew" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Fanta" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Sprite" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Root Beer" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+      <Option nameAtt="Dr. Pepper" pictureAtt="" priceAtt="0" addedCaloriesAtt="0" />
+    </Options>
+  </MenuItem>
+</Items>
